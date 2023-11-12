@@ -1,0 +1,3 @@
+MANAN	5
+IHSAN	7
+ALI	8

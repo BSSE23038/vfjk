@@ -1,0 +1,3 @@
+small	Blue	15$	23
+Medium	Grey	35$	21
+Large	Green	50$	21
